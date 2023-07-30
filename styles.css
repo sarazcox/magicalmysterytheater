@@ -1,0 +1,36 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.navbar {
+    background-color: #91C8E4;
+}
+
+.navbar-brand, .nav-link{
+    color: #4682A9;
+}
+
+
+#first-div {
+    color:#4682A9;
+    background-color: #F6F4EB;
+}
+
+#second-div {
+    background-color: #91C8E4;
+    padding: 15% 15% 7%;
+}
+
+#button {
+    color: #4682A9;
+    background-color: #F6F4EB;
+}
+
+/* Footer */
+#footer {
+    color: #4682A9;
+    background-color: #F6F4EB;
+    text-align: center;
+    padding: 2% 15%;
+}
